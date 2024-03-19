@@ -27,17 +27,16 @@
 
 ### EDA 
 
-https://github.com/Lingeshmv/Diabetes-predection-/assets/108582724/aec531a0-c60e-42e6-b6e3-a4b4cc70ad3b
+https://github.com/Lingeshmv/Diabetes_Prediction/assets/108582724/bf76290e-4a91-4abd-b460-529a30479a7f
 
 ### Model Train
 
-https://github.com/Lingeshmv/Diabetes-predection-/assets/108582724/b3331131-b335-4bad-a50a-b7d0948a532a
-
+https://github.com/Lingeshmv/Diabetes_Prediction/assets/108582724/5f5cd95d-e209-4b23-87ff-87ee106688d4
 
 ## Clone Repo
 
 ```bash
-   https://github.com/Lingeshmv/Diabetes-predection-.git
+   https://github.com/Lingeshmv/Diabetes_Prediction.git
    ```
 
 ## Procedure : 
