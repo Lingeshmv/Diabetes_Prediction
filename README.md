@@ -31,7 +31,7 @@ https://github.com/Lingeshmv/Diabetes_Prediction/assets/108582724/bf76290e-4a91-
 
 ### Model Train
 
-https://github.com/Lingeshmv/Diabetes_Prediction/assets/108582724/5f5cd95d-e209-4b23-87ff-87ee106688d4
+https://github.com/Lingeshmv/Diabetes_Prediction/assets/108582724/362732b8-767d-4b41-9410-d1d94b53ea64
 
 ## Clone Repo
 
